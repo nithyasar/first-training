@@ -5,6 +5,7 @@ HTML5
 CSS3
 node.js
 react.js
+angular.js
 
 
 lot more to go!!! 
